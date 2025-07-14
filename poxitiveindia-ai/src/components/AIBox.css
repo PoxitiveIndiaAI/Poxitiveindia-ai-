@@ -1,0 +1,42 @@
+.ai-box {
+  position: fixed;
+  bottom: 80px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 90%;
+  max-width: 600px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  padding: 20px;
+  z-index: 1000;
+  font-family: Arial, sans-serif;
+  transition: all 0.3s ease-in-out;
+}
+
+
+.ai-box input {
+  width: 70%;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+}
+
+.ai-box button {
+  padding: 12px 18px;
+  border-radius: 8px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.answer-box {
+  margin-top: 20px;
+}
+
+.loading {
+  color: orange;
+}
