@@ -1,2 +1,1 @@
-# Poxitiveindia-ai-
-Pox ecosystem assistant 
+"# PoxitiveIndiaAI - Your POX Ecosystem Assistant" 
